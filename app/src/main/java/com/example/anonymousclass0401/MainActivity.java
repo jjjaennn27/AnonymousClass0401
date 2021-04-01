@@ -1,6 +1,5 @@
 package com.example.anonymousclass0401;
 
-package com.example.anonymousclass;
 
 import androidx.appcompat.app.AppCompatActivity;
 
